@@ -1,0 +1,6 @@
+fastapi==0.115.3
+uvicorn
+fuzzywuzzy==0.18.0
+pandas==2.2.3
+sentence_transformers==3.2.1
+python-multipart
