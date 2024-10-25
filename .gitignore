@@ -5,6 +5,10 @@ __pycache__/
 
 # C extensions
 *.so
+venv/
+
+client/data/** 
+client/output/** 
 
 # Distribution / packaging
 .Python
