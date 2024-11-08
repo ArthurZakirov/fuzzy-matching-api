@@ -1,4 +1,5 @@
 # Fuzzy Matching API
+![thumbnail](assets/thumbnail.png)
 
 ## Table Of Contents
 - [Overview](#overview)
